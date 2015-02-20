@@ -1,6 +1,3 @@
----
-
----
 User-agent: *
 # This rule might look mad (there's no blog directory in the repo), but it prevents robots crawling scottlogic.github.io/blog.
-Disallow: /blog
+Disallow: /blog/
